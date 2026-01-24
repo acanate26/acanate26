@@ -20,7 +20,7 @@ Climate change and environmental justice
 Neighborhood demographics and spatial inequality
 
 💭 Beyond the Data
-Outside of code and sociology research, you'll find me reading genres between fiction (sci-fi, fantasy, romantasy, horror), watching anime, and walking my dog.
+Outside of code and sociology research, you'll find me reading genres between fiction (sci-fi, fantasy, romantasy, horror), writing, watching anime, and walking my dog.
 
 ## 🤝 Let’s Connect
 I'm always interested in collaboration, research conversations, and applied data work in the social sciences.
